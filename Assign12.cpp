@@ -1,22 +1,5 @@
 /**
 * File Name: Assign12.cpp
-*
-* Academic Integrity Statement:
-* I certify that, while others may have assisted me in brainstorming, debugging, and validating this program,
-* the program itself is my own work. I understand that submitting code that is the work of other individuals
-* is a violation of the course Academic Integrity Policy and may result in zero credit for the assignment, or
-* course failure and a report to the Academic Dishonesty Board. I also understand that if I knowingly give my
-* original work to another individual could also result in zero credit for the assignment, or course failure
-* and a report to the Academic Dishonesty Board. See Academic Integrity for Students
-Links to an external site.
-*
-* Assisted by and Assisted line numbers:Assisted by "https://stackoverflow.com/questions/13779321/accept-only-letters"
-* Assisted line ( 55). Assisted by "https://stackoverflow.com/questions/313970/how-to-convert-an-instance-of-stdstring-to-lower-case"
-* Assisted line ( 59 ). Assisted by Prof. Meng Su lecture video and "https://cplusplus.com/forum/general/102469/" about correct
-* ways to insert things into a tree,Assisted Line (66 ).
-* Your Name: YUERAN MA
-* Your PSU user ID:  ymm5252
-* Course title: CMPSC122 Semester 2024
 * Description: This is a coding project involves Tree data structure and file handling techniques.
 **/
 #include <iostream>//standard
